@@ -1,0 +1,1 @@
+Admission NumberName Of StudentDate Of BirthAadhar CardAddressPhone NumberWhatsapp NumberFather NameFather QualificationFather ProfessionMother NameMother QualificationMother ProfessionSocial Status
